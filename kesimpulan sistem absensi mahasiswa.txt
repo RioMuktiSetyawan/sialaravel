@@ -1,0 +1,6 @@
+Sistem Absensi Mahasiswa ini dikembangkan oleh Framework Laravel Breeze dan ditambahkan dengan sentuhan Tailwind CSS yang Mengedepankan Efisiensi kerja serta estetika Modern. Pada Sistem ini berisi fitur, antara lain seperti: Keamanan Berlapis (Autentikasi Login/Manajemen User), Antarmuka Dashboard Ultra-Compact, Navigasi Minimalis, Manajemen (CRUD) data Mahasiswa dan Absensi yang Terintegrasi, serta Pelaporan yang Efisien.
+
+
+
+link github:
+https://github.com/RioMuktiSetyawan/Rio-Mukti-Setyawan-221011400648-07TPLE013-Sistem-Absensi-Mahasiswa
